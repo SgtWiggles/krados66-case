@@ -21,8 +21,8 @@ It was designed in a weekend for a friend's keyboard. While the CAD render has a
 
 1) Set the heat set inserts into the holes in the top of the case.
 2) Apply foam to the top and bottom of the case where there are indents.
-3) Assembly PCB and plate of the Krado 66.
-4) Assembly the top, Krado 66 plate and the bottom. It should all stack together.
+3) Assemble PCB and plate of the Krado 66.
+4) Assemble the top, Krado 66 plate and the bottom. It should all stack together.
 5) Secure the top, pcb and plate together with the M2 screws.
 6) Apply the rubber feet to the bottom of the case.
 
